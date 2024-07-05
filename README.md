@@ -15,7 +15,7 @@ https://github.com/ghinzuka/holbertonschool-printf
 ### Myshell
 ### Hbnb
 
-## <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/computer.svg' width='30'/>  Programming Languages
+## <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/computer.svg' width='30'/> Programming Languages
 <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/mysql.svg' width='30px'/>
 
 

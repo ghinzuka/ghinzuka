@@ -9,7 +9,7 @@ I'm a student in computer programming in the Holberton school <img src="https://
 
 ## Programming Tools
 
-<img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/docker.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/flask.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/sqla.svg' width='30'/>
+<img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/docker.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/flask.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/assets/102736316/b032f7be-a5a9-41d2-a439-5800f5d2fb61' width='50'/> 
 
 
 ## Now playing

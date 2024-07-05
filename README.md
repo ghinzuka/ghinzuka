@@ -3,7 +3,7 @@
 As a student in computer programming at Holberton School <img src="https://github.com/ghinzuka/ghinzuka/assets/102736316/f6acd5ec-bbdf-4f68-9dc3-cb3a50a0e2ef" width="50px">, I have developed a strong foundation in languages such as C and Python during my first year. I have also been introduced to MySQL and tools like SQLAlchemy and Flask for building applications. Currently, I am specializing in Machine Learning, an exciting field that combines my programming skills with data analysis and advanced algorithms.
 
 
-## Projects
+## <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/project.svg' width='30'/> Projects
 
 ### Myprintf 
 <img src = "https://github.com/ghinzuka/ghinzuka/assets/102736316/e570cd92-0202-4a83-a810-1ab10faf5c62" width='250px'/> 

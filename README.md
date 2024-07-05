@@ -1,6 +1,6 @@
 <h1>Hi There, I'm POUQUEROU Baptiste <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2> About me </h2>
-I'm a student in computer programming in the Holberton school <img src="https://github.com/ghinzuka/ghinzuka/assets/102736316/f6acd5ec-bbdf-4f68-9dc3-cb3a50a0e2ef" width="50px"> During my first year of school I learnt basic languages such as C <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg' width='30'/> and Pyhton <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/>, I also was introduced to Mysql and tools like Sqlalchemy and flasks to build application.
+I'm a student in computer programming in the Holberton school <img src="https://github.com/ghinzuka/ghinzuka/assets/102736316/f6acd5ec-bbdf-4f68-9dc3-cb3a50a0e2ef" width="50px"> During my first year of school I learnt basic languages such as C <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg' width='30'/>and Pyhton <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/>, I also was introduced to Mysql and tools like Sqlalchemy and flasks to build application.
 
 
 ## Programming Languages

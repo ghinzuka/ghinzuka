@@ -4,8 +4,16 @@ As a student in computer programming at Holberton School <img src="https://githu
 
 
 ## Programming Languages
-<img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/mysql.svg' width='30'/>
+<img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/mysql.svg' width='30px'/>
 
+## Project
+
+### Myprintf <img src = "https://github.com/ghinzuka/ghinzuka/assets/102736316/e570cd92-0202-4a83-a810-1ab10faf5c62" width='60'/> 
+
+One of my notable projects was developing a simple printf function in C. This project deepened my understanding of low-level programming and system calls, enhancing my problem-solving skills and attention to detail.
+
+### Myshell
+### Hbnb
 
 ## Programming Tools
 

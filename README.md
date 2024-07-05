@@ -11,5 +11,5 @@ I'm a student in computer programming in the Holberton school <img src="https://
 
 ## Programming Tools
 
-<img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/docker.svg' width='30'/>
+<img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/docker.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/flask.svg' width='30'/>
 

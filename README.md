@@ -29,7 +29,14 @@ https://github.com/ghinzuka/holbertonschool-simple_shell
 
 
 I have developed Hbnb, a clone of Airbnb, using a RESTful API, Docker, HTML, CSS, and JavaScript. The application allows users to list, browse, and book rental properties. The back-end is built as a RESTful API to manage CRUD operations for users, properties, and bookings, enabling smooth communication between the client and server. Docker is used to containerize the application, simplifying deployment and ensuring consistent performance across different environments. The front-end, designed using HTML, CSS, and JavaScript, provides a user-friendly interface, closely resembling Airbnb’s core functionalities while making it easily accessible and visually appealing.
+
+https://github.com/ghinzuka/hbnb-public 
+
+https://github.com/ghinzuka/holbertonschool-hbnb
+
 ## <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/computer.svg' width='30'/> Programming Languages
+
+
 
 
 <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg' width='30'/>   <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/mysql.svg' width='30px'/>

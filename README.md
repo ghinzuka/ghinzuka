@@ -1,6 +1,10 @@
 <h1>Hi There, I'm POUQUEROU Baptiste <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2> About me </h2>
-As a student in computer programming at Holberton School <img src="https://github.com/ghinzuka/ghinzuka/assets/102736316/f6acd5ec-bbdf-4f68-9dc3-cb3a50a0e2ef" width="50px">, I have developed a strong foundation in languages such as C and Python during my first year. I have also been introduced to MySQL and tools like SQLAlchemy and Flask for building applications. Currently, I am specializing in Machine Learning, an exciting field that combines my programming skills with data analysis and advanced algorithms.
+As a programming student at Holberton School <img src="https://github.com/ghinzuka/ghinzuka/assets/102736316/f6acd5ec-bbdf-4f68-9dc3-cb3a50a0e2ef" width="50px">, I developed a strong foundation in C <img src="https://github.com/ghinzuka/ghinzuka/blob/main/images/c.svg" width="30px"> and Python <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/python.svg' height='30'/> during my first year. I was also introduced to MySQL <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/mysql.svg' width='30px'/> and tools like SQLAlchemy <img src = 'https://github.com/ghinzuka/ghinzuka/assets/102736316/b032f7be-a5a9-41d2-a439-5800f5d2fb61' width='50'/>  and Flask <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/flask.svg' width='30'/>, for building applications. Currently, I specialize in Machine Learning, an exciting field that combines programming, data analysis, and advanced algorithms.
+
+My year-end project focused on price prediction using Machine Learning models. I created data pipelines, including data cleaning and analysis (pandas, matplotlib), model training (sklearn, gradient boosting, random forest), and optimization (fine-tuning, hyperparameter tuning).
+
+With this experience in price prediction using Machine Learning models, I am eager to find an internship in this field to share and further develop my established skills.
 
 
 ## <img src = 'https://github.com/ghinzuka/ghinzuka/blob/main/images/project.svg' width='30'/> Projects
